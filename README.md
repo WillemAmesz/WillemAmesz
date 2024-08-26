@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently I am doing my masters in Econometrics 
+I'm learning how to use GitHub and develop my programming skills further
+
 <!--
 **WillemAmesz/WillemAmesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Currently I am doing my masters in Econometrics 
+- Currently I am doing my masters in Econometrics in Rotterdam
 - I'm learning how to use GitHub and develop my programming skills further
 
 <!--
